@@ -1,0 +1,18 @@
+.container >form{
+    margin: 5%;
+}
+.container >form .btn{
+    padding: 0%;
+    width: 80px;
+    height: 30px;;
+}
+.container >form .btn{
+    padding: 0%;
+    width: 80px;
+    height: 30px;
+}
+.container >form .text-input{
+    padding: 0%;
+    width: 280px;
+    height: 30px;
+}
